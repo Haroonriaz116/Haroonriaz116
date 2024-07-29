@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haroonriaz116
-- 👀 I’m interested in machine learning 
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning C
 <!---
 haroonriaz116/haroonriaz116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
